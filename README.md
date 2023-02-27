@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on .NET, REACT products
+- 🔭 I’m currently working on .NET Core, Microsoft SQL Server, Microsoft Azure SQL Database, SQLite, Azure DevOps, React Native
 - 🌱 I’m currently learning Python
 
