@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on .NET Core, Microsoft SQL Server, Microsoft Azure SQL Database, SQLite, Azure DevOps, React Native
 - 🌱 I’m currently learning Python
+- 📁 Curriculum vitae always updated is [here](https://philbroz.github.io/cv/)
 
