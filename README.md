@@ -2,7 +2,7 @@
 
 
 ## 💫 About Me:
-🔭 I’m currently working on .NET, Microsoft SQL Server, Microsoft Azure SQL Database, Azure DevOps, React<br>🌱 I’m currently learning Docker<br>📁 Curriculum vitae always updated is here
+🔭 I’m currently working on .NET, Microsoft SQL Server, Microsoft Azure SQL Database, Azure DevOps, React<br>🌱 I’m currently learning Docker<br>📁 Curriculum vitae always updated is ![here](https://philbroz.github.io/cv/).
 
 
 ### 🌐 Socials:
